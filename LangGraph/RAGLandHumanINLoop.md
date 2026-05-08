@@ -17,4 +17,11 @@ if u want to implement  the rag make this as a tool
 
     is a design approach in ai system where a human actively participates at critical points  of the workflow - either suspend approve and correct or guide the models output 
 
-    
+
+we  use the hitl because 
+ 
+
+to  help the agentic system 
+to maintain  the accountability
+
+htl ensures the accuracy a=
