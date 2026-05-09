@@ -95,4 +95,7 @@ EASY TO IMPLEMENT
 remote server :) running on  the remote server ! 
 
 THE transport which is used to communicate to the remote server that is http + sse 
-`
+
+SSE  sse stand for the server send event and it an extension of http 
+
+sse help me in streaming and   
